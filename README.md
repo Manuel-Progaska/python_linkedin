@@ -1,2 +1,2 @@
 # python_linkedin
-Python for finance tutorials
+Python tutorials for finance
